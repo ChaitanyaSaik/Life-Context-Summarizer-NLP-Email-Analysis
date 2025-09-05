@@ -120,7 +120,7 @@ The notebook will:
 🎓 Course Project | NLP & ML  
 📧 Email: chaitanyasaikurapati@gmail.com
 
-## 👨‍💻 CO-Author
+## 👨‍💻 Co-Author
 **Bandi Dheeraj**  
 🎓 Course Project | NLP & ML  
 📧 Email: bandisunny11@gmail.com
