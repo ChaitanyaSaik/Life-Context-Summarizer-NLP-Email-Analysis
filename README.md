@@ -57,15 +57,15 @@ This system is designed to reduce information overload by automatically organizi
 
 
 
-   <img width="619" height="468" alt="image" src="https://github.com/user-attachments/assets/10a76814-ab40-4d4b-b672-102ffd55fc41" />
+   <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/10a76814-ab40-4d4b-b672-102ffd55fc41" />
 
-   <img width="731" height="447" alt="image" src="https://github.com/user-attachments/assets/f3abef4c-26bf-46f7-a2f3-5c582209b86f" />
+   <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/f3abef4c-26bf-46f7-a2f3-5c582209b86f" />
 
-   <img width="693" height="382" alt="image" src="https://github.com/user-attachments/assets/c05d1e44-2132-4662-bc7f-4a509acd0780" />
+   <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/c05d1e44-2132-4662-bc7f-4a509acd0780" />
 
-   <img width="730" height="446" alt="image" src="https://github.com/user-attachments/assets/ae3a8cd0-31ed-4e73-b8aa-b4e33f42c076" />
+   <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/ae3a8cd0-31ed-4e73-b8aa-b4e33f42c076" />
 
-   <img width="603" height="475" alt="image" src="https://github.com/user-attachments/assets/ec754692-9562-4737-ad55-aac6bf400432" />
+   <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/ec754692-9562-4737-ad55-aac6bf400432" />
 
 
 ---
