@@ -65,7 +65,8 @@ This system is designed to reduce information overload by automatically organizi
 
    <img width="730" height="446" alt="image" src="https://github.com/user-attachments/assets/ae3a8cd0-31ed-4e73-b8aa-b4e33f42c076" />
 
-    <img width="603" height="475" alt="image" src="https://github.com/user-attachments/assets/ec754692-9562-4737-ad55-aac6bf400432" />
+   <img width="603" height="475" alt="image" src="https://github.com/user-attachments/assets/ec754692-9562-4737-ad55-aac6bf400432" />
+
 
 ---
 
